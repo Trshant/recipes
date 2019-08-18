@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks, recipe]
+tags: [Notebooks, Notebooks/Recipes, recipe]
 title: Upma
 created: '2019-07-26T13:00:39.799Z'
-modified: '2019-07-26T13:03:35.204Z'
+modified: '2019-08-18T17:11:36.586Z'
 ---
 
 # Upma 

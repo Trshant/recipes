@@ -1,8 +1,8 @@
 ---
-tags: [recipe]
+tags: [Notebooks/Recipes, recipe]
 title: Bangude Pulimunchi / phanna upkari
 created: '2019-07-27T15:39:04.939Z'
-modified: '2019-07-27T15:39:46.424Z'
+modified: '2019-08-18T17:11:36.568Z'
 ---
 
 # Bangude Pulimunchi / phanna upkari
